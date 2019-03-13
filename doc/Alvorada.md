@@ -1,31 +1,24 @@
 # Predict Defects thru Incidents
 
- 
-
-What we know:
-
- 
+## What we know:
 
 - Link application Incidents with Defects
 
 - Historical data available in different source tools (ServiceNow and TFS)
 
-- Rules
+## Rules
 
-            Application Name
+* Application Name
 
-            Incident Type
+* Incident Type
 
-            Configuration Item
+* Configuration Item
 
-            Time Range
+* Time Range
 
-            Incident Occurrence     
-
- 
-
-Actions Items:
+* Incident Occurrence     
 
  
+## Actions Items:
 
-- Identify affected applications (interlocks impacted)
+* Identify affected applications (interlocks impacted)
